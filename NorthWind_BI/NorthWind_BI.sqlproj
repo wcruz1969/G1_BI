@@ -71,5 +71,8 @@
     <Build Include="OLTP\Tables\Territories.sql" />
     <Build Include="OLTP\Tables\EmployeeTerritories.sql" />
     <Build Include="OLTP\Tables\Employees.sql" />
+    <Build Include="OLTP\Tables\Categories.sql" />
+    <Build Include="OLTP\Tables\Suppliers.sql" />
+    <Build Include="OLTP\Tables\Products.sql" />
   </ItemGroup>
 </Project>
