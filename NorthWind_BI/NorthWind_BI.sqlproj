@@ -77,5 +77,8 @@
     <Build Include="OLTP\Tables\CustomerDemographics.sql" />
     <Build Include="OLTP\Tables\Customers.sql" />
     <Build Include="OLTP\Tables\CustomerCustomerDemo.sql" />
+    <Build Include="OLTP\Tables\Shippers.sql" />
+    <Build Include="OLTP\Tables\Orders.sql" />
+    <Build Include="OLTP\Tables\OrderDetails.sql" />
   </ItemGroup>
 </Project>
